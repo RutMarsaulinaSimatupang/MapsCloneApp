@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Maps"
+        android:icon="@drawable/baseline_location_on_24"
+        android:id="@+id/maps"/>
+    <item android:title="Camera"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:id="@+id/camera"/>
+    <item android:title="Barometer Sensor"
+         android:icon="@drawable/baseline_sensors_24"
+        android:id="@+id/barometer_sensor"/>
+</menu>
